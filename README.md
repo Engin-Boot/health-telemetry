@@ -9,6 +9,8 @@ We will develop this in two segments.
 
 ## COM port reader and Data parser
 
+Setup a virtual COM port and a simulator behind it. Implement a program that reads from the COM port and parses the data.
+
 ## Webserver application to display real time data on the web UI
 
-You can use python with streamlit to show the data
+You can use python with [streamlit](https://docs.streamlit.io/en/stable/) to show the data
