@@ -15,7 +15,7 @@ Parse the data based on device protocol document.
  
 The development happens in two segments.
 
-## COM port reader and Data parser
+## [Segment 1] COM port reader and Data parser
 
 Setup a virtual COM port and a simulator behind it.
 Implement a program that reads from the COM port and parses the data.
@@ -23,7 +23,7 @@ Implement a program that reads from the COM port and parses the data.
 The parser needs to be testable without needing the simulator,
 without manual checks.
 
-## Application to display real-time data on a web UI
+## [Segment 2] Application to display real-time data on a web UI
 
 Use python with [streamlit](https://docs.streamlit.io/en/stable/)
 to show the data.
