@@ -1,6 +1,6 @@
 # Healthcare Telemetry
 
-Case study by Anurag Thakur
+Case study by Anurag Thakur and Kavya KA
 
 Understand the data packets and communication configuration
 from the protocol document of the Device.
